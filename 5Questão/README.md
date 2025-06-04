@@ -19,7 +19,7 @@ Dada a existência de diferentes interfaces (Web, Mobile, Smart TV), a melhor ab
 - Por exemplo: enquanto a interface Web consome grandes volumes de dados, as Smart TVs demandam uma navegação mais simples e otimizada.  
 
 **Diagrama de Conexão:**  
-[Link para imagem do diagrama] (https://github.com/wagnerjunr/Shipay-Desafio/blob/main/5Quest%C3%A3o/Diagrama.png)
+[Link para imagem do diagrama](https://github.com/wagnerjunr/Shipay-Desafio/blob/main/5Quest%C3%A3o/Diagrama.png)
 [Link para o diagrama no Lucidchart](https://lucid.app/lucidchart/c4a3e44d-fccc-4e75-9238-03f37deba78a/edit?viewport_loc=-602%2C-107%2C4037%2C1978%2C.Q4MUjXso07N&invitationId=inv_cae643fa-1bd4-4ab6-8bee-9a1ad4c9c966)  
 
 ---
