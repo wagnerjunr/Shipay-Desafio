@@ -1,4 +1,4 @@
-# Questão Desafio - Listagem de Produtos Shipay
+# Questão Desafío - Listagem de Produtos Shipay
 
 Este é um projeto React criado para listar e gerenciar uma coleção de produtos transacionais da Shipay. Ele inclui uma funcionalidade de filtro de itens por texto, permitindo que os usuários localizem rapidamente produtos específicos com base no nome ou em outras propriedades relevantes. Além disso, o projeto possui testes automatizados utilizando Jest e Testing Library para garantir a qualidade do código e a funcionalidade.
 
@@ -34,6 +34,7 @@ Siga os passos abaixo para clonar e executar o projeto localmente:
 
    ```bash
    cd Shipay-Desafio
+   cd 1Questão
    ```
 3. Instale as dependências:
 
