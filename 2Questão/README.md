@@ -1,6 +1,8 @@
 # Relatório de Erros no Arquivo `UserManagement.js`
 
 Este documento descreve os problemas encontrados no código enviado e sugere soluções para corrigi-los.
+<br>
+[Link para o Pull Request Corrigido](https://github.com/wagnerjunr/Shipay-Desafio/pull/1)
 
 ---
 
