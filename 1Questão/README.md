@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# Questão Desafio - Listagem de Produtos Shipay
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é um projeto React criado para listar e gerenciar uma coleção de produtos transacionais da Shipay. Ele inclui uma funcionalidade de filtro de itens por texto, permitindo que os usuários localizem rapidamente produtos específicos com base no nome ou em outras propriedades relevantes. Além disso, o projeto possui testes automatizados utilizando Jest e Testing Library para garantir a qualidade do código e a funcionalidade.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Funcionalidades
 
-### `npm start`
+* **Listagem de produtos**: Exibe uma lista de produtos transacionais.
+* **Filtro por texto**: Permite que os usuários filtrem a lista de produtos digitando no campo de busca.
+* **Testes automatizados**: Inclui cobertura de testes para garantir que a funcionalidade do filtro e a exibição de produtos funcionem conforme o esperado.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Tecnologias Utilizadas
 
-### `npm test`
+* **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+* **React Scripts**: Scripts integrados para desenvolvimento, build e execução de testes.
+* **Testing Library**: Ferramenta para testes de componentes React focados em interações do usuário.
+* **Jest**: Framework de testes JavaScript para validação de funcionalidades.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 📦 Instalação
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Siga os passos abaixo para clonar e executar o projeto localmente:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone este repositório:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```bash
+   git clone https://github.com/wagnerjunr/Shipay-Desafio.git
+   ```
+2. Acesse a pasta do projeto:
 
-### `npm run eject`
+   ```bash
+   cd Shipay-Desafio
+   ```
+3. Instale as dependências:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```bash
+   npm install
+   ```
+4. Execute o projeto:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   npm start
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+O projeto estará disponível em `http://localhost:3000`.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 🧪 Testes
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Este projeto utiliza Jest e Testing Library para testes automatizados. Para executar os testes:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm test
+```
 
-### Code Splitting
+Os testes incluem:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* Verificação do funcionamento do filtro de texto.
+* Renderização correta da lista de produtos.
+* Interação com o campo de busca.
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🤝 Contato
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Em caso de dúvidas ou sugestões, sinta-se à vontade para entrar em contato por meio de [wagneraparecidojr@gmail.com](mailto:wagneraparecidojr@gmail.com).
