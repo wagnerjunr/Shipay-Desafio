@@ -3,7 +3,7 @@
 # Controle de Token e API de Autenticação
 
   Práticas recomendadas para gerenciamento de tokens e autenticação de APIs em aplicações frontend para consumo de endpoints. 
-  [Exemplo de aplicação](https://github.com/wagnerjunr/Shipay-Desafio/blob/main/4Quest%C3%A3o/Aplica%C3%A7%C3%A3o/ssr/useAuth.js){:target="_blank"} 
+  [Exemplo de aplicação](https://github.com/wagnerjunr/Shipay-Desafio/blob/main/4Quest%C3%A3o/Aplica%C3%A7%C3%A3o/ssr/useAuth.js) 
 
 ### 1. Gerenciamento de Credenciais no Frontend
 - Armazene os dados de `access_key` e `secret_key` em um arquivo `.env` no frontend para segurança.

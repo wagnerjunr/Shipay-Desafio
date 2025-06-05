@@ -20,7 +20,7 @@ Este projeto React foi desenvolvido para listar e gerenciar uma coleção de pro
 - Uso de componentes reutilizáveis.
 - Uso de hooks para gerenciamento de estado.
 
-[Resolução do Desafio](https://github.com/wagnerjunr/Shipay-Desafio/tree/main/1Quest%C3%A3o){:target="_blank"} 
+[Resolução do Desafio](https://github.com/wagnerjunr/Shipay-Desafio/tree/main/1Quest%C3%A3o)
 
 ---
 
@@ -28,11 +28,11 @@ Este projeto React foi desenvolvido para listar e gerenciar uma coleção de pro
 **Descrição:**  
 Nesta etapa, foi realizada uma análise de problemas encontrados em um Pull Request enviado. Foram descritos os problemas observados e sugeridas soluções para corrigi-los. 
 
-[Resolução do Desafio](https://github.com/wagnerjunr/Shipay-Desafio/tree/main/2Quest%C3%A3o){:target="_blank"} 
+[Resolução do Desafio](https://github.com/wagnerjunr/Shipay-Desafio/tree/main/2Quest%C3%A3o) 
 
 <br>
 
-[Link para o Pull Request](https://github.com/wagnerjunr/Shipay-Desafio/pull/1){:target="_blank"} 
+[Link para o Pull Request](https://github.com/wagnerjunr/Shipay-Desafio/pull/1) 
 
 ---
 
@@ -40,7 +40,7 @@ Nesta etapa, foi realizada uma análise de problemas encontrados em um Pull Requ
 **Descrição:**  
 Foi identificado um erro ao tentar usar o método `map` do JavaScript em uma variável ou estado que estava `null` ou `undefined`.  
 
-[Resolução do Desafio](https://github.com/wagnerjunr/Shipay-Desafio/tree/main/3Quest%C3%A3o){:target="_blank"} 
+[Resolução do Desafio](https://github.com/wagnerjunr/Shipay-Desafio/tree/main/3Quest%C3%A3o) 
 
 
 ---
@@ -49,7 +49,7 @@ Foi identificado um erro ao tentar usar o método `map` do JavaScript em uma var
 **Descrição:**  
 Aplicação das práticas recomendadas para gerenciamento de tokens e autenticação de APIs em aplicações frontend.  
 
-[Resolução do Desafio](https://github.com/wagnerjunr/Shipay-Desafio/tree/main/4Quest%C3%A3o){:target="_blank"} 
+[Resolução do Desafio](https://github.com/wagnerjunr/Shipay-Desafio/tree/main/4Quest%C3%A3o) 
 
 
 ---
@@ -58,6 +58,6 @@ Aplicação das práticas recomendadas para gerenciamento de tokens e autentica�
 **Descrição:**  
 Exploração do conceito de **Back for Frontend (BFF)** e suas aplicações em projetos.  
 
-[Resolução do Desafio](https://github.com/wagnerjunr/Shipay-Desafio/tree/main/5Quest%C3%A3o){:target="_blank"} 
+[Resolução do Desafio](https://github.com/wagnerjunr/Shipay-Desafio/tree/main/5Quest%C3%A3o) 
 
 ---
