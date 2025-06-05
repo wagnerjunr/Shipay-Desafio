@@ -22,6 +22,10 @@ class UserManagement extends React.Component {
   };
 
   addUser = () => {
+    if(this.state.newUserName.trim() === '' || this.state.newUserEmail.trim() === ''){
+      alert('Preencha todos os campos');
+      return;
+    }
     const newUser = {
       id: this.state.users.length + 1,
       name: this.state.newUserName,

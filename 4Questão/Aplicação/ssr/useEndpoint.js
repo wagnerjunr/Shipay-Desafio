@@ -1,4 +1,4 @@
-import { getAccessToken } from "./authService";
+import { getAccessToken } from "./useAuth";
 
 export async function useEndpoint(endpoint) {
   const token = await getAccessToken();

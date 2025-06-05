@@ -33,7 +33,7 @@ export async function getAccessToken() {
     try {
       await refreshAccessToken();  // Caso exista uma função refreshAccessToken, se não existir, vai para a função authenticate
     } catch (error) {
-      await authenticate(); // Reautentica se os tokens estiverem expirados
+      await useAuth(); // Reautentica se os tokens estiverem expirados
     }
   }
   return accessToken;
